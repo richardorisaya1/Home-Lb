@@ -9,7 +9,7 @@ This project demonstrates how to set up a virtual Active Directory (AD) home lab
 
 - <b>PowerShell</b> 
 - <b>Windows Server 2022</b>
-- <b>VMWare WorkstAion Pro </b>
+- <b>VMWare Workstaion Pro </b>
 
 <h2>Environments Used </h2>
 
@@ -19,7 +19,7 @@ This project demonstrates how to set up a virtual Active Directory (AD) home lab
 
 <p align="center">
 Creating users in Active Directory with PowerShell: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/VoYWw3C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
