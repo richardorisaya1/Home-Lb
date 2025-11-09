@@ -1,7 +1,7 @@
-<h1>active directory home lab n</h1>
+<h1>Active Directory Bulk User Creation Home Lab</h1>
 
 <h2>Description</h2>
-This project demonstrates how to set up a virtual Active Directory (AD) home lab for learning, testing, and automating bulk user creation using PowerShell. It’s ideal for IT professionals, system administrators, and cybersecurity students who want hands-on experience managing users in a Windows domain environment.
+This project demonstrates how to set up a virtual Active Directory (AD) home lab for learning, testing, and automating bulk user creation using PowerShell. It’s ideal for IT professionals, system administrators, and cybersecurity students seeking hands-on experience in managing users within a Windows domain environment.
 <br />
 
 
@@ -9,7 +9,7 @@ This project demonstrates how to set up a virtual Active Directory (AD) home lab
 
 - <b>PowerShell</b> 
 - <b>Windows Server 2022</b>
-- <b>VMWare Pro </b>
+- <b>VMWare WorkstAion Pro </b>
 
 <h2>Environments Used </h2>
 
@@ -18,7 +18,7 @@ This project demonstrates how to set up a virtual Active Directory (AD) home lab
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Creating users in Active Directory with PowerShell: <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
