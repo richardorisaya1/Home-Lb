@@ -22,8 +22,8 @@ Creating users in Active Directory with PowerShell: <br/>
 <img src="https://imgur.com/VoYWw3C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Users have been created in Active Directory under the _Users Organizational Unit:  <br/>
+<img src="https://imgur.com/ghpMgJY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
